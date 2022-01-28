@@ -1,0 +1,6 @@
+target/
+.settings/
+query.txt
+rhea.rdf
+rhea.txt
+out.txt
